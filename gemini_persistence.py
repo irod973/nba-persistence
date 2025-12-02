@@ -139,6 +139,7 @@ def calculate_persistence_list_both(num: int) -> int:
 
 # plotting the distribution of the last digit of the persistence list
 def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int]):
+    from pathlib import Path
     list_of_last_digits = [digit for digit in last_digit_of_persistence_list if digit is not None]
     logger.info(f"{list_of_last_digits=}")
     plt.hist(list_of_last_digits, bins=range(0, 11), edgecolor='black')
@@ -146,7 +147,8 @@ def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int]
     plt.ylabel('Frequency')
     plt.title('Distribution of Last Digit of Persistence List')
     plt.xticks([i + 0.5 for i in range(10)], [str(i) for i in range(10)])
-    plt.savefig('persistence_list_distribution.png')
+    output_path = Path(__file__).parent / 'persistence_list_distribution.png'
+    plt.savefig(output_path)
     plt.close()
 
 if __name__ == "__main__":
