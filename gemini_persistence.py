@@ -169,7 +169,7 @@ if __name__ == "__main__":
     roster_df["JerseyNumber"] = roster_df["JerseyNumber"].astype(int)
     roster_df["persistence_steps"] = roster_df.apply(lambda row: calculate_persistence_list_both(row["JerseyNumber"]), axis="columns")
     roster_df["persistence"] = roster_df.apply(lambda row: len(row["persistence_steps"])-1, axis="columns")
-    roster_df["last_digit_of_persistence_list"] = roster_df.apply(lambda row: row["persistence_steps"][-1], axis="columns")
+    roster_df["last_digit_of_persistence_list"] = roster_df.apply(lambda row: list(row["persistence_steps"])[-1], axis="columns")
     roster_df.sort_values(by="persistence", ascending=False, inplace=True)
     roster_df.to_csv(output_csv, index=False)
     logger.info(f"Persistence data saved to {output_csv}")
