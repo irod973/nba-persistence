@@ -2,6 +2,7 @@ import operator
 import time
 import timeit
 from functools import lru_cache, reduce
+import matplotlib.pyplot as plt
 
 import pandas as pd
 from loguru import logger
@@ -111,6 +112,43 @@ def calculate_persistence_both(num: int) -> int:
     logger.info(f"{num=} {persistence_one=}")
     return persistence_two
 
+def persistence_list_resursive(num: int) -> list[int]:
+    """Get the intermediate numbers in the persistence calculation. Using recursive approach."""
+    if num < 10:
+        return [num]
+    return [num] + persistence_list_resursive(multiply_digits(num))
+
+def persistence_list_brute(num: int) -> list[int]:
+    """Get the intermediate numbers in the persistence calculation. Using brute force approach."""
+    num_list = [num]
+    if num < 10:
+        return num_list
+    while num >= 10:
+        num = multiply_digits(num)
+        num_list.append(num)
+    return num_list
+
+def calculate_persistence_list_both(num: int) -> int:
+    """Calculate the persistence list using both approaches."""
+    persistence_list_one = persistence_list_resursive(num)
+    persistence_list_two = persistence_list_brute(num)
+    if persistence_list_one != persistence_list_two:
+        logger.error(f"{num=} {persistence_list_one=} != {persistence_list_two=}")
+        raise ValueError
+    return persistence_list_one
+
+# plotting the distribution of the last digit of the persistence list
+def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int]):
+    list_of_last_digits = [digit for digit in last_digit_of_persistence_list if digit is not None]
+    logger.info(f"{list_of_last_digits=}")
+    plt.hist(list_of_last_digits, bins=range(0, 11), edgecolor='black')
+    plt.xlabel('Last Digit of Persistence List')
+    plt.ylabel('Frequency')
+    plt.title('Distribution of Last Digit of Persistence List')
+    plt.xticks([i + 0.5 for i in range(10)], [str(i) for i in range(10)])
+    plt.savefig('persistence_list_distribution.png')
+    plt.close()
+
 if __name__ == "__main__":
     from pathlib import Path
     output_csv = Path(__file__).parent / 'nba_active_roster.csv'
@@ -127,17 +165,22 @@ if __name__ == "__main__":
     roster_df = roster_df[roster_df["JerseyNumber"].notna()]
     logger.info(f"{roster_df['JerseyNumber'].isna().sum()}")
     roster_df["JerseyNumber"] = roster_df["JerseyNumber"].astype(int)
-    roster_df["persistence"] = roster_df.apply(lambda row: calculate_persistence_both(row["JerseyNumber"]), axis="columns")
+    roster_df["persistence_steps"] = roster_df.apply(lambda row: calculate_persistence_list_both(row["JerseyNumber"]), axis="columns")
+    roster_df["persistence"] = roster_df.apply(lambda row: len(row["persistence_steps"])-1, axis="columns")
+    roster_df["last_digit_of_persistence_list"] = roster_df.apply(lambda row: row["persistence_steps"][-1], axis="columns")
     roster_df.sort_values(by="persistence", ascending=False, inplace=True)
     roster_df.to_csv(output_csv, index=False)
     logger.info(f"Persistence data saved to {output_csv}")
+
+    plot_persistence_list_distribution(roster_df["last_digit_of_persistence_list"].tolist())
+    logger.info(f"Persistence list distribution saved to persistence_list_distribution.png")
 
     if not roster_df.empty:
         print("\n" + "="*50)
         print("     Active NBA Player Roster & Jersey Numbers")
         print("="*50)
 
-        # Display the result
+        #Display the result
         print(roster_df[['TeamAbbr', 'JerseyNumber', 'PlayerName', 'Position', "persistence"]].to_string(index=False))
 
     # Tangent: What's the max persistence of a two-digit number?
