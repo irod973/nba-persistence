@@ -191,7 +191,7 @@ if __name__ == "__main__":
     roster_df.to_csv(output_csv, index=False)
     logger.info(f"Persistence data saved to {output_csv}")
 
-    plot_persistence_list_distribution(roster_df["last_digit_of_persistence_list"].tolist())
+    plot_persistence_list_distribution(roster_df["last_digit_of_persistence_list"].tolist(), output_file="nba_persistence_distribution.png")
     logger.info("Persistence list distribution saved to persistence_list_distribution.png")
 
     if not roster_df.empty:
