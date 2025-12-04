@@ -8,6 +8,9 @@ requires-python = ">=3.12,<4.0"
 authors = [{ name = "irod973" }]
 dependencies = [
   "loguru>=0.7.2,<1.0.0",
+  "matplotlib>=3.8.0,<4.0.0",
+  "nba-api>=1.11.3",
+  "pandas>=2.3.3",
   "pydantic-settings>=2.7.1,<3.0.0",
 ]
 

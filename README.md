@@ -22,7 +22,7 @@ The rest is simply calculating the persistence of the numbers and sorting.
 
 ```shell
 uv sync --group nba_persistence
-python gemini_persistence.py
+uv run gemini_persistence.py
 ```
 
 ## Tangent - Calculating persistence iteratively vs recursively 

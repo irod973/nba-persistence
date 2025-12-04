@@ -1,525 +1,525 @@
-PlayerName,TeamAbbr,JerseyNumber,Position,persistence
-Amari Williams,BOS,77,Forward-Center,4
-VJ Edgecombe,PHI,77,Guard,4
-Jamison Battle,TOR,77,Forward,4
-Luka Dončić,LAL,77,Forward-Guard,4
-Ben Saraf,BKN,77,Guard,4
-Neemias Queta,BOS,88,Center,3
-Baylor Scheierman,BOS,55,Guard,3
-Duncan Robinson,DET,55,Forward,3
-Harrison Ingram,SAS,55,Forward,3
-Kevon Looney,NOP,55,Forward,3
-Ethan Thompson,IND,55,Guard,3
-Ariel Hukporti,NYK,55,Center,3
-Alijah Martin,TOR,55,Guard,3
-Isaiah Hartenstein,OKC,55,Center-Forward,3
-Noah Penda,ORL,93,Guard-Forward,3
-Lachlan Olbrich,CHI,47,Center,3
-Nolan Traore,BKN,88,Guard,3
-Ben Sheppard,IND,26,Guard,2
-Quenton Jackson,IND,29,Guard,2
-Jeremiah Robinson-Earl,IND,25,Forward,2
-Alperen Sengun,HOU,28,Center,2
-Daeqwon Plowden,SAC,29,Guard-Forward,2
-Pascal Siakam,IND,43,Forward,2
-Marvin Bagley III,WAS,35,Forward,2
-Tolu Smith,DET,35,Forward,2
-Bobi Klintman,DET,34,Forward,2
-Isaiah Stewart,DET,28,Forward-Center,2
-Marcus Sasser,DET,25,Guard,2
-Robert Williams III,POR,35,Center-Forward,2
-Riley Minix,SAS,27,Forward,2
-Lindy Waters III,SAS,43,Forward,2
-Jamal Murray,DEN,27,Guard,2
-P.J. Washington,DAL,25,Forward,2
-Sandro Mamukelashvili,TOR,54,Forward-Center,2
-Donovan Mitchell,CLE,45,Guard,2
-Nae'Qwan Tomlin,CLE,35,Forward,2
-Patrick Williams,CHI,44,Forward,2
-David Jones Garcia,SAS,25,Forward,2
-Marcus Smart,LAL,36,Guard,2
-Duop Reath,POR,26,Center,2
-Rudy Gobert,MIN,27,Center,2
-Wendell Carter Jr.,ORL,34,Center-Forward,2
-Goga Bitadze,ORL,35,Center-Forward,2
-Nikola Topić,OKC,44,Guard,2
-Kenrich Williams,OKC,34,Guard-Forward,2
-Ajay Mitchell,OKC,25,Guard,2
-Landry Shamet,NYK,44,Guard,2
-Guerschon Yabusele,NYK,28,Forward,2
-Mikal Bridges,NYK,25,Guard-Forward,2
-Dominick Barlow,PHI,25,Forward,2
-Trey Murphy III,NOP,25,Forward,2
-Hunter Sallis,PHI,45,Guard,2
-Rocco Zikarsky,MIN,44,Center,2
-Enrique Freeman,MIN,25,Forward,2
-Drew Timme,LAL,26,Forward,2
-Andre Jackson Jr.,MIL,44,Guard,2
-Thanasis Antetokounmpo,MIL,43,Forward,2
-Pete Nance,MIL,35,Forward,2
-Giannis Antetokounmpo,MIL,34,Forward,2
-Alex Antetokounmpo,MIL,29,Forward,2
-Davion Mitchell,MIA,45,Guard,2
-Kasparas Jakučionis,MIA,25,Guard,2
-John Konchar,MEM,46,Guard,2
-GG Jackson,MEM,45,Forward,2
-Kobe Bufkin,MEM,44,Guard,2
-Jalen Smith,CHI,25,Forward-Center,2
-Rui Hachimura,LAL,28,Forward,2
-Isaac Okoro,CHI,35,Forward-Guard,2
-Isaiah Crawford,HOU,27,Forward,2
-Brice Sensabaugh,UTA,28,Forward,2
-Hugo González,BOS,28,Guard,2
-Luka Garza,BOS,52,Center,2
-Chris Boucher,BOS,99,Forward,2
-Vít Krejčí,ATL,27,Guard,2
-KJ Simpson,CHA,25,Guard,2
-Oscar Tshiebwe,UTA,34,Forward-Center,2
-Max Shulga,BOS,44,Guard,2
-Will Riley,WAS,27,Forward,2
-Jordan Walsh,BOS,27,Guard,2
-Xavier Tillman,BOS,26,Forward,2
-Jalen Wilson,BKN,22,Forward,1
-Noah Clowney,BKN,21,Forward-Center,1
-Jordan Goodwin,PHX,23,Guard,1
-Jahmir Young,MIA,17,Guard,1
-Jaime Jaquez Jr.,MIA,11,Guard,1
-Dru Smith,MIA,12,Guard,1
-Bam Adebayo,MIA,13,Center-Forward,1
-Tyler Herro,MIA,14,Guard,1
-Myron Gardner,MIA,15,Forward,1
-Cam Thomas,BKN,24,Guard,1
-Jock Landale,MEM,31,Center,1
-Keshad Johnson,MIA,16,Forward,1
-Day'Ron Sharpe,BKN,20,Center,1
-Andrew Wiggins,MIA,22,Forward,1
-Norman Powell,MIA,24,Guard,1
-Michael Porter Jr.,BKN,17,Forward,1
-Vladislav Goldin,MIA,50,Center,1
-Nigel Hayes-Davis,PHX,21,Forward,1
-Rasheer Fleming,PHX,20,Forward,1
-Isaiah Livers,PHX,18,Forward,1
-Mark Williams,PHX,15,Center,1
-Jamaree Bouyea,PHX,15,Guard,1
-Gary Harris,MIL,11,Guard,1
-Taurean Prince,MIL,12,Forward,1
-Ryan Rollins,MIL,13,Guard,1
-Amir Coffey,MIL,17,Guard-Forward,1
-Cam Spencer,MEM,24,Guard,1
-Liam McNeeley,CHA,33,Forward,1
-Cedric Coward,MEM,23,Guard,1
-Olivier-Maxence Prosper,MEM,18,Forward,1
-Bogdan Bogdanović,LAC,10,Guard,1
-Brook Lopez,LAC,11,Center,1
-Cam Christie,LAC,12,Guard,1
-Yanic Konan Niederhäuser,LAC,14,Center,1
-Jahmyl Telfort,LAC,19,Guard,1
-Lauri Markkanen,UTA,23,Forward-Center,1
-Jordan Miller,LAC,22,Guard,1
-Kobe Brown,LAC,24,Forward,1
-Nicolas Batum,LAC,33,Guard-Forward,1
-Ivica Zubac,LAC,40,Center,1
-Toumani Camara,POR,33,Forward,1
-Kris Murray,POR,24,Forward,1
-Donovan Clingan,POR,23,Center,1
-Rayan Rupert,POR,21,Guard-Forward,1
-Jaxson Hayes,LAL,11,Center-Forward,1
-Jake LaRavia,LAL,12,Forward,1
-Maxi Kleber,LAL,14,Forward,1
-Austin Reaves,LAL,15,Guard,1
-Nick Smith Jr.,LAL,20,Guard,1
-LeBron James,LAL,23,Forward,1
-Chris Mañon,LAL,30,Guard,1
-Nic Claxton,BKN,33,Center,1
-Javonte Cooke,POR,18,Guard,1
-Shaedon Sharpe,POR,17,Guard,1
-Yang Hansen,POR,16,Center,1
-Javon Small,MEM,10,Guard,1
-Ja Morant,MEM,12,Guard,1
-Kyle Kuzma,MIL,18,Forward,1
-Brandon Clarke,MEM,15,Forward,1
-Zach Edey,MEM,14,Center,1
-AJ Green,MIL,20,Guard,1
-Mark Sears,MIL,19,Guard,1
-Onyeka Okongwu,ATL,17,Forward-Center,1
-Justin Edwards,PHI,11,Forward,1
-N'Faly Dante,ATL,12,Center,1
-Mohamed Diawara,NYK,51,Forward,1
-Trey Jemison III,NYK,50,Center,1
-Asa Newell,ATL,14,Forward,1
-Karl-Anthony Towns,NYK,32,Center-Forward,1
-Mouhamed Gueye,ATL,18,Forward,1
-DeMar DeRozan,SAC,10,Guard-Forward,1
-Mitchell Robinson,NYK,23,Center-Forward,1
-Tosan Evbuomwan,NYK,20,Forward,1
-Tyler Kolek,NYK,13,Guard,1
-Jalen Brunson,NYK,11,Guard,1
-Trendon Watford,PHI,12,Guard-Forward,1
-Jared McCain,PHI,20,Guard,1
-Isaiah Joe,OKC,11,Guard,1
-Thomas Sorber,OKC,12,Center,1
-Ousmane Dieng,OKC,13,Forward,1
-Branden Carlson,OKC,15,Center,1
-Aaron Wiggins,OKC,21,Guard,1
-Cason Wallace,OKC,22,Guard,1
-Brooks Barnhizer,OKC,23,Guard,1
-Trae Young,ATL,11,Guard,1
-Zaccharie Risacher,ATL,10,Forward,1
-Kyshawn George,WAS,18,Forward,1
-Alex Sarr,WAS,20,Center,1
-Khris Middleton,WAS,22,Forward,1
-Corey Kispert,WAS,24,Forward,1
-Tristan da Silva,ORL,23,Forward,1
-Franz Wagner,ORL,22,Forward,1
-Moritz Wagner,ORL,21,Forward-Center,1
-Colin Castleton,ORL,14,Center,1
-Joel Embiid,PHI,21,Center-Forward,1
-Johni Broome,PHI,22,Forward,1
-Eric Gordon,PHI,23,Guard,1
-Leonard Miller,MIN,33,Forward,1
-Terance Mann,BKN,14,Guard-Forward,1
-Tyrese Martin,BKN,13,Forward,1
-Tyson Etienne,BKN,10,Guard,1
-Cole Anthony,MIL,50,Guard,1
-Koby Brea,PHX,14,Guard,1
-Collin Gillespie,PHX,12,Guard,1
-Oso Ighodaro,PHX,11,Forward,1
-Khaman Maluach,PHX,10,Center,1
-Mike Conley,MIN,10,Guard,1
-Naz Reid,MIN,11,Center-Forward,1
-Joan Beringer,MIN,19,Forward,1
-Jaylen Clark,MIN,22,Guard,1
-Tre Johnson,WAS,12,Guard,1
-Julius Randle,MIN,30,Forward-Center,1
-Sharife Cooper,WAS,13,Guard,1
-Nikola Đurišić,ATL,22,Guard,1
-Anthony Gill,WAS,16,Forward,1
-Caleb Houstan,ATL,33,Guard,1
-Jabari Walker,PHI,33,Forward,1
-Adem Bona,PHI,30,Forward,1
-Bryce McGowens,NOP,11,Guard,1
-Micah Peavy,NOP,14,Guard-Forward,1
-Jose Alvarado,NOP,15,Guard,1
-Karlo Matković,NOP,17,Forward-Center,1
-Yves Missi,NOP,21,Center,1
-Derik Queen,NOP,22,Center,1
-Trey Alexander,NOP,23,Guard,1
-Jordan Hawkins,NOP,24,Guard,1
-Eli John Ndiaye,ATL,30,Forward,1
-Saddiq Bey,NOP,41,Guard-Forward,1
-Sidy Cissoko,POR,91,Guard,1
-John Collins,LAC,20,Forward-Center,1
-Cameron Johnson,DEN,23,Forward,1
-DaRon Holmes II,DEN,14,Forward,1
-Ja'Kobe Walter,TOR,14,Guard,1
-Collin Murray-Boyles,TOR,12,Forward,1
-Brandon Williams,DAL,10,Guard,1
-Kyrie Irving,DAL,11,Guard,1
-Naji Marshall,DAL,13,Forward,1
-Miles Kelly,DAL,14,Guard,1
-Caleb Martin,DAL,16,Forward,1
-Daniel Gafford,DAL,21,Forward-Center,1
-Ryan Kalkbrenner,CHA,11,Center,1
-Moussa Cisse,DAL,30,Center,1
-Klay Thompson,DAL,31,Guard,1
-Cooper Flagg,DAL,32,Forward,1
-Tim Hardaway Jr.,DEN,10,Guard-Forward,1
-Bruce Brown,DEN,11,Guard-Forward,1
-Nikola Jokić,DEN,15,Center,1
-Jakob Poeltl,TOR,19,Center,1
-Jonas Valančiūnas,DEN,17,Center,1
-Spencer Jones,DEN,21,Forward,1
-Zeke Nnaji,DEN,22,Forward-Center,1
-Jalen Pickett,DEN,24,Guard,1
-Josh Green,CHA,10,Guard,1
-Aaron Gordon,DEN,32,Forward,1
-Walker Kessler,UTA,24,Center,1
-Harrison Barnes,SAS,40,Forward,1
-Julian Champagnie,SAS,30,Forward,1
-Jusuf Nurkić,UTA,30,Center,1
-Georges Niang,UTA,31,Forward,1
-Devin Vassell,SAS,24,Guard-Forward,1
-Tobias Harris,DET,12,Forward,1
-Chaz Lanier,DET,20,Guard,1
-Garrett Temple,TOR,17,Guard-Forward,1
-Jamal Shead,TOR,23,Guard,1
-Daniss Jenkins,DET,24,Guard,1
-Seth Curry,CHA,30,Guard,1
-Kyle Filipowski,UTA,22,Center,1
-Ace Bailey,UTA,19,Forward,1
-John Tonje,UTA,17,Guard,1
-Elijah Harkless,UTA,16,Guard,1
-Walter Clayton Jr.,UTA,13,Guard,1
-Svi Mykhailiuk,UTA,10,Guard-Forward,1
-Ayo Dosunmu,CHI,11,Guard,1
-Zach Collins,CHI,12,Forward-Center,1
-Kevin Huerter,CHI,13,Guard-Forward,1
-Matas Buzelis,CHI,14,Forward,1
-Julian Phillips,CHI,15,Forward,1
-Noa Essengue,CHI,24,Forward,1
-Tidjane Salaün,CHA,31,Forward,1
-Tre Jones,CHI,30,Guard,1
-Brandon Miller,CHA,24,Forward,1
-Chucky Hepburn,TOR,24,Guard,1
-Tre Mann,CHA,23,Guard,1
-Mason Plumlee,CHA,22,Forward-Center,1
-Darius Garland,CLE,10,Guard,1
-De'Andre Hunter,CLE,12,Forward-Guard,1
-Jaylon Tyson,CLE,20,Guard-Forward,1
-Larry Nance Jr.,CLE,22,Forward-Center,1
-Tyrese Proctor,CLE,24,Guard,1
-Jarrett Allen,CLE,31,Center,1
-Dean Wade,CLE,32,Forward-Center,1
-Luke Travers,CLE,33,Forward,1
-Pat Connaughton,CHA,21,Guard,1
-Moussa Diabaté,CHA,14,Forward,1
-Antonio Reeves,CHA,12,Guard,1
-Ochai Agbaji,TOR,30,Guard,1
-Jaden Ivey,DET,23,Guard,1
-Jett Howard,ORL,13,Guard,1
-Kevin Love,UTA,42,Forward-Center,1
-Drew Eubanks,SAC,19,Forward-Center,1
-Draymond Green,GSW,23,Forward,1
-Tari Eason,HOU,17,Forward,1
-Stephen Curry,GSW,30,Guard,1
-Trayce Jackson-Davis,GSW,32,Forward,1
-Pat Spencer,GSW,61,Guard,1
-Dario Šarić,SAC,20,Forward-Center,1
-Devin Carter,SAC,22,Guard,1
-Keon Ellis,SAC,23,Guard,1
-Maxime Raynaud,SAC,42,Center,1
-Jeff Green,HOU,32,Forward,1
-Clint Capela,HOU,30,Center,1
-Javonte Green,DET,31,Guard,1
-Sam Hauser,BOS,30,Forward,1
-Dylan Cardwell,SAC,32,Center,1
-Isaiah Stevens,SAC,24,Guard,1
-Jabari Smith Jr.,HOU,10,Forward,1
-Steven Adams,HOU,12,Center,1
-Jase Richardson,ORL,11,Guard,1
-Reed Sheppard,HOU,15,Guard,1
-Alex Toohey,GSW,22,Forward,1
-Josh Okogie,HOU,20,Guard,1
-Tony Bradley,IND,13,Center-Forward,1
-Payton Pritchard,BOS,11,Guard,1
-Isaiah Jackson,IND,22,Forward,1
-Gui Santos,GSW,15,Forward,1
-Russell Westbrook,SAC,18,Guard,1
-Johnny Furphy,IND,12,Guard,1
-Domantas Sabonis,SAC,11,Forward-Center,1
-Jimmy Butler III,GSW,10,Forward,1
-Jay Huff,IND,32,Center,1
-Ron Harper Jr.,BOS,13,Guard-Forward,1
-Aaron Nesmith,IND,23,Guard-Forward,1
-Al Horford,GSW,20,Center-Forward,1
-Jeremy Sochan,SAS,10,Forward,1
-Carter Bryant,SAS,11,Forward,1
-Bismack Biyombo,SAS,18,Center,1
-Keegan Murray,SAC,13,Forward,1
-Dennis Schröder,SAC,17,Guard,1
-Quinten Post,GSW,21,Center,1
-Nique Clifford,SAC,5,Guard,0
-Doug McDermott,SAC,7,Forward,0
-Malik Monk,SAC,0,Guard,0
-Tristan Vukcevic,WAS,0,Forward,0
-Cam Whitmore,WAS,1,Forward,0
-Taylor Hendricks,UTA,0,Forward,0
-Kyle Anderson,UTA,2,Forward-Guard,0
-Keyonte George,UTA,3,Guard,0
-Kelly Oubre Jr.,PHI,9,Forward-Guard,0
-Paul George,PHI,8,Forward,0
-Kyle Lowry,PHI,7,Guard,0
-Quentin Grimes,PHI,5,Guard,0
-Andre Drummond,PHI,1,Center,0
-Tyrese Maxey,PHI,0,Guard,0
-Isaiah Collier,UTA,8,Guard,0
-Cody Williams,UTA,5,Forward,0
-Deni Avdija,POR,8,Forward,0
-CJ McCollum,WAS,3,Guard,0
-Malaki Branham,WAS,8,Forward,0
-Dillon Brooks,PHX,3,Guard-Forward,0
-Jalen Green,PHX,4,Guard,0
-Grayson Allen,PHX,8,Guard,0
-Caleb Love,POR,2,Guard,0
-Blake Wesley,POR,1,Guard,0
-Damian Lillard,POR,0,Guard,0
-Scoot Henderson,POR,0,Guard,0
-Bub Carrington,WAS,7,Guard,0
-AJ Johnson,WAS,4,Guard,0
-Zach LaVine,SAC,8,Guard,0
-A.J. Lawson,TOR,0,Guard,0
-De'Aaron Fox,SAS,4,Guard,0
-Stephon Castle,SAS,5,Guard,0
-Luke Kornet,SAS,7,Center-Forward,0
-Kelly Olynyk,SAS,8,Forward-Center,0
-Bilal Coulibaly,WAS,0,Guard,0
-Nick Richards,PHX,2,Center,0
-Gradey Dick,TOR,1,Guard-Forward,0
-Jonathan Mogbo,TOR,2,Forward,0
-Justin Champagnie,WAS,9,Guard-Forward,0
-Jamir Watkins,WAS,5,Forward,0
-Jerami Grant,POR,9,Forward,0
-Jrue Holiday,POR,5,Guard,0
-Matisse Thybulle,POR,4,Guard-Forward,0
-Jordan McLaughlin,SAS,0,Guard,0
-Victor Wembanyama,SAS,1,Forward-Center,0
-Dylan Harper,SAS,2,Guard,0
-Keldon Johnson,SAS,3,Forward-Guard,0
-Ryan Dunn,PHX,0,Forward,0
-Royce O'Neale,PHX,0,Forward,0
-Devin Booker,PHX,1,Guard,0
-RJ Barrett,TOR,9,Forward-Guard,0
-Immanuel Quickley,TOR,5,Guard,0
-Scottie Barnes,TOR,4,Forward-Guard,0
-Brandon Ingram,TOR,3,Forward,0
-Precious Achiuwa,SAC,9,Forward,0
-Jacob Toppin,ATL,0,Forward,0
-Jamal Cain,ORL,8,Forward,0
-Isaac Jones,DET,3,Forward,0
-Jalen Duren,DET,0,Center,0
-Peyton Watson,DEN,8,Guard,0
-Tamar Bates,DEN,7,Guard,0
-Hunter Tyson,DEN,5,Forward,0
-Julian Strawther,DEN,3,Guard,0
-Curtis Jones,DEN,1,Guard,0
-Christian Braun,DEN,0,Guard,0
-Ryan Nembhard,DAL,9,Guard,0
-Dwight Powell,DAL,7,Forward-Center,0
-D'Angelo Russell,DAL,5,Guard,0
-Anthony Davis,DAL,3,Forward-Center,0
-Dereck Lively II,DAL,2,Center,0
-Jaden Hardy,DAL,1,Guard,0
-Danté Exum,DAL,0,Guard,0
-Max Christie,DAL,0,Guard,0
-Cade Cunningham,DET,2,Guard,0
-Ronald Holland II,DET,5,Forward,0
-Kevin Durant,HOU,7,Forward,0
-Paul Reed,DET,7,Forward,0
-JD Davison,HOU,4,Guard,0
-Dorian Finney-Smith,HOU,2,Forward,0
-Amen Thompson,HOU,1,Guard-Forward,0
-Aaron Holiday,HOU,0,Guard,0
-Kevon Harris,HOU,0,Guard,0
-De'Anthony Melton,GSW,8,Guard,0
-Buddy Hield,GSW,7,Guard,0
-Moses Moody,GSW,4,Guard,0
-Will Richard,GSW,3,Guard,0
-Brandin Podziemski,GSW,2,Guard,0
-Jonathan Kuminga,GSW,1,Forward,0
-Gary Payton II,GSW,0,Guard,0
-Ausar Thompson,DET,9,Guard-Forward,0
-Wendell Moore Jr.,DET,9,Guard,0
-Caris LeVert,DET,8,Guard,0
-Craig Porter Jr.,CLE,9,Guard,0
-Chris Livingston,CLE,8,Forward,0
-Sam Merrill,CLE,5,Guard,0
-Evan Mobley,CLE,4,Center,0
-Josh Minott,BOS,8,Forward,0
-Jaylen Brown,BOS,7,Guard-Forward,0
-Anfernee Simons,BOS,4,Guard,0
-Jayson Tatum,BOS,0,Forward-Guard,0
-E.J. Liddell,BKN,9,Forward,0
-Egor Dëmin,BKN,8,Guard,0
-Haywood Highsmith,BKN,7,Forward,0
-Drake Powell,BKN,4,Guard-Forward,0
-Danny Wolf,BKN,2,Forward,0
-Ziaire Williams,BKN,1,Forward,0
-Kristaps Porziņģis,ATL,8,Forward-Center,0
-Nickeil Alexander-Walker,ATL,7,Guard,0
-Dyson Daniels,ATL,5,Guard,0
-Luke Kennard,ATL,3,Guard,0
-Keaton Wallace,ATL,2,Guard,0
-Derrick White,BOS,9,Guard,0
-Miles Bridges,CHA,0,Forward,0
-LaMelo Ball,CHA,1,Guard,0
-Josh Giddey,CHI,3,Guard,0
-Thomas Bryant,CLE,3,Center-Forward,0
-Lonzo Ball,CLE,2,Guard,0
-Max Strus,CLE,1,Guard-Forward,0
-Nikola Vučević,CHI,9,Center,0
-Dalen Terry,CHI,7,Forward,0
-Jevon Carter,CHI,5,Guard,0
-Emanuel Miller,CHI,2,Forward,0
-Grant Williams,CHA,2,Forward,0
-Coby White,CHI,0,Guard,0
-Trentyn Flowers,CHI,0,Forward,0
-Drew Peterson,CHA,9,Forward,0
-Collin Sexton,CHA,8,Guard,0
-Kon Knueppel,CHA,7,Guard-Forward,0
-Sion James,CHA,4,Guard,0
-Fred VanVleet,HOU,5,Guard,0
-Jae'Sean Tate,HOU,8,Forward,0
-Orlando Robinson,ORL,7,Center,0
-Miles McBride,NYK,2,Guard,0
-DeAndre Jordan,NOP,9,Center,0
-Dejounte Murray,NOP,5,Guard,0
-Hunter Dickinson,NOP,4,Center,0
-Jordan Poole,NOP,3,Guard,0
-Herbert Jones,NOP,2,Forward,0
-Zion Williamson,NOP,1,Forward,0
-Jeremiah Fears,NOP,0,Guard,0
-Johnny Juzang,MIN,9,Guard,0
-Bones Hyland,MIN,8,Guard,0
-Joe Ingles,MIN,7,Forward-Guard,0
-Anthony Edwards,MIN,5,Guard,0
-Rob Dillingham,MIN,4,Guard,0
-Jaden McDaniels,MIN,3,Forward,0
-Terrence Shannon Jr.,MIN,1,Guard-Forward,0
-Donte DiVincenzo,MIN,0,Guard,0
-Jordan Clarkson,NYK,0,Guard,0
-Josh Hart,NYK,3,Guard,0
-Tyrese Haliburton,IND,0,Guard,0
-Pacôme Dadiet,NYK,4,Forward,0
-Paolo Banchero,ORL,5,Forward,0
-Jalen Suggs,ORL,4,Guard,0
-Desmond Bane,ORL,3,Guard,0
-Tyus Jones,ORL,2,Guard,0
-Jonathan Isaac,ORL,1,Forward,0
-Anthony Black,ORL,0,Guard,0
-Alex Caruso,OKC,9,Guard,0
-Jalen Williams,OKC,8,Guard-Forward,0
-Chet Holmgren,OKC,7,Center-Forward,0
-Jaylin Williams,OKC,6,Forward,0
-Luguentz Dort,OKC,5,Guard,0
-Chris Youngblood,OKC,3,Guard,0
-Shai Gilgeous-Alexander,OKC,2,Guard,0
-Kevin McCullar Jr.,NYK,9,Guard,0
-OG Anunoby,NYK,8,Forward-Guard,0
-Bobby Portis,MIL,9,Forward,0
-Kevin Porter Jr.,MIL,7,Guard-Forward,0
-Gary Trent Jr.,MIL,5,Guard,0
-Myles Turner,MIL,3,Center-Forward,0
-Adou Thiero,LAL,1,Guard,0
-Kris Dunn,LAC,8,Guard,0
-Derrick Jones Jr.,LAC,5,Forward,0
-Kobe Sanders,LAC,4,Guard,0
-Chris Paul,LAC,3,Guard,0
-Kawhi Leonard,LAC,2,Forward,0
-James Harden,LAC,1,Guard,0
-Bradley Beal,LAC,0,Guard,0
-T.J. McConnell,IND,9,Guard,0
-Kam Jones,IND,7,Guard,0
-Jarace Walker,IND,5,Forward,0
-Taelon Peter,IND,4,Guard,0
-Andrew Nembhard,IND,2,Guard-Forward,0
-Obi Toppin,IND,1,Forward,0
-Bennedict Mathurin,IND,0,Guard-Forward,0
-Jarred Vanderbilt,LAL,2,Forward,0
-Dalton Knecht,LAL,4,Forward,0
-Deandre Ayton,LAL,5,Center,0
-Jaren Jackson Jr.,MEM,8,Forward-Center,0
-Jericho Sims,MIL,0,Center,0
-Pelle Larsson,MIA,9,Guard,0
-Kel'el Ware,MIA,7,Center,0
-Nikola Jović,MIA,5,Forward,0
-Jalen Johnson,ATL,1,Forward,0
-Simone Fontecchio,MIA,0,Forward,0
-Santi Aldama,MEM,7,Forward-Center,0
-Gabe Vincent,LAL,7,Guard,0
-Vince Williams Jr.,MEM,5,Guard,0
-Kentavious Caldwell-Pope,MEM,3,Guard,0
-Ty Jerome,MEM,2,Guard-Forward,0
-Scotty Pippen Jr.,MEM,1,Guard,0
-Jaylen Wells,MEM,0,Forward,0
-Bronny James,LAL,9,Guard,0
-Terry Rozier,MIA,2,Guard,0
+PlayerName,TeamAbbr,JerseyNumber,Position,persistence,persistence_steps,last_digit_of_persistence_list
+Amari Williams,BOS,77,Forward-Center,4,"[77, 49, 36, 18, 8]",8
+VJ Edgecombe,PHI,77,Guard,4,"[77, 49, 36, 18, 8]",8
+Jamison Battle,TOR,77,Forward,4,"[77, 49, 36, 18, 8]",8
+Luka Dončić,LAL,77,Forward-Guard,4,"[77, 49, 36, 18, 8]",8
+Ben Saraf,BKN,77,Guard,4,"[77, 49, 36, 18, 8]",8
+Duncan Robinson,DET,55,Forward,3,"[55, 25, 10, 0]",0
+Harrison Ingram,SAS,55,Forward,3,"[55, 25, 10, 0]",0
+Kevon Looney,NOP,55,Forward,3,"[55, 25, 10, 0]",0
+Ethan Thompson,IND,55,Guard,3,"[55, 25, 10, 0]",0
+Neemias Queta,BOS,88,Center,3,"[88, 64, 24, 8]",8
+Baylor Scheierman,BOS,55,Guard,3,"[55, 25, 10, 0]",0
+Noah Penda,ORL,93,Guard-Forward,3,"[93, 27, 14, 4]",4
+Ariel Hukporti,NYK,55,Center,3,"[55, 25, 10, 0]",0
+Nolan Traore,BKN,88,Guard,3,"[88, 64, 24, 8]",8
+Alijah Martin,TOR,55,Guard,3,"[55, 25, 10, 0]",0
+Isaiah Hartenstein,OKC,55,Center-Forward,3,"[55, 25, 10, 0]",0
+Lachlan Olbrich,CHI,47,Center,3,"[47, 28, 16, 6]",6
+Ben Sheppard,IND,26,Guard,2,"[26, 12, 2]",2
+Quenton Jackson,IND,29,Guard,2,"[29, 18, 8]",8
+Jeremiah Robinson-Earl,IND,25,Forward,2,"[25, 10, 0]",0
+Alperen Sengun,HOU,28,Center,2,"[28, 16, 6]",6
+Daeqwon Plowden,SAC,29,Guard-Forward,2,"[29, 18, 8]",8
+Pascal Siakam,IND,43,Forward,2,"[43, 12, 2]",2
+Marvin Bagley III,WAS,35,Forward,2,"[35, 15, 5]",5
+Tolu Smith,DET,35,Forward,2,"[35, 15, 5]",5
+Bobi Klintman,DET,34,Forward,2,"[34, 12, 2]",2
+Isaiah Stewart,DET,28,Forward-Center,2,"[28, 16, 6]",6
+Marcus Sasser,DET,25,Guard,2,"[25, 10, 0]",0
+Robert Williams III,POR,35,Center-Forward,2,"[35, 15, 5]",5
+Riley Minix,SAS,27,Forward,2,"[27, 14, 4]",4
+Lindy Waters III,SAS,43,Forward,2,"[43, 12, 2]",2
+Jamal Murray,DEN,27,Guard,2,"[27, 14, 4]",4
+Nikola Topić,OKC,44,Guard,2,"[44, 16, 6]",6
+Sandro Mamukelashvili,TOR,54,Forward-Center,2,"[54, 20, 0]",0
+P.J. Washington,DAL,25,Forward,2,"[25, 10, 0]",0
+Ajay Mitchell,OKC,25,Guard,2,"[25, 10, 0]",0
+Patrick Williams,CHI,44,Forward,2,"[44, 16, 6]",6
+David Jones Garcia,SAS,25,Forward,2,"[25, 10, 0]",0
+Marcus Smart,LAL,36,Guard,2,"[36, 18, 8]",8
+Nae'Qwan Tomlin,CLE,35,Forward,2,"[35, 15, 5]",5
+Duop Reath,POR,26,Center,2,"[26, 12, 2]",2
+Wendell Carter Jr.,ORL,34,Center-Forward,2,"[34, 12, 2]",2
+Goga Bitadze,ORL,35,Center-Forward,2,"[35, 15, 5]",5
+Donovan Mitchell,CLE,45,Guard,2,"[45, 20, 0]",0
+Mikal Bridges,NYK,25,Guard-Forward,2,"[25, 10, 0]",0
+Kenrich Williams,OKC,34,Guard-Forward,2,"[34, 12, 2]",2
+Landry Shamet,NYK,44,Guard,2,"[44, 16, 6]",6
+Guerschon Yabusele,NYK,28,Forward,2,"[28, 16, 6]",6
+Chris Boucher,BOS,99,Forward,2,"[99, 81, 8]",8
+Dominick Barlow,PHI,25,Forward,2,"[25, 10, 0]",0
+Trey Murphy III,NOP,25,Forward,2,"[25, 10, 0]",0
+Hunter Sallis,PHI,45,Guard,2,"[45, 20, 0]",0
+Rocco Zikarsky,MIN,44,Center,2,"[44, 16, 6]",6
+Enrique Freeman,MIN,25,Forward,2,"[25, 10, 0]",0
+Drew Timme,LAL,26,Forward,2,"[26, 12, 2]",2
+Andre Jackson Jr.,MIL,44,Guard,2,"[44, 16, 6]",6
+Thanasis Antetokounmpo,MIL,43,Forward,2,"[43, 12, 2]",2
+Pete Nance,MIL,35,Forward,2,"[35, 15, 5]",5
+Giannis Antetokounmpo,MIL,34,Forward,2,"[34, 12, 2]",2
+Alex Antetokounmpo,MIL,29,Forward,2,"[29, 18, 8]",8
+Davion Mitchell,MIA,45,Guard,2,"[45, 20, 0]",0
+Kasparas Jakučionis,MIA,25,Guard,2,"[25, 10, 0]",0
+John Konchar,MEM,46,Guard,2,"[46, 24, 8]",8
+GG Jackson,MEM,45,Forward,2,"[45, 20, 0]",0
+Kobe Bufkin,MEM,44,Guard,2,"[44, 16, 6]",6
+Jalen Smith,CHI,25,Forward-Center,2,"[25, 10, 0]",0
+Vít Krejčí,ATL,27,Guard,2,"[27, 14, 4]",4
+Jordan Walsh,BOS,27,Guard,2,"[27, 14, 4]",4
+Isaiah Crawford,HOU,27,Forward,2,"[27, 14, 4]",4
+Rudy Gobert,MIN,27,Center,2,"[27, 14, 4]",4
+Hugo González,BOS,28,Guard,2,"[28, 16, 6]",6
+Luka Garza,BOS,52,Center,2,"[52, 10, 0]",0
+Isaac Okoro,CHI,35,Forward-Guard,2,"[35, 15, 5]",5
+Max Shulga,BOS,44,Guard,2,"[44, 16, 6]",6
+KJ Simpson,CHA,25,Guard,2,"[25, 10, 0]",0
+Oscar Tshiebwe,UTA,34,Forward-Center,2,"[34, 12, 2]",2
+Rui Hachimura,LAL,28,Forward,2,"[28, 16, 6]",6
+Brice Sensabaugh,UTA,28,Forward,2,"[28, 16, 6]",6
+Will Riley,WAS,27,Forward,2,"[27, 14, 4]",4
+Xavier Tillman,BOS,26,Forward,2,"[26, 12, 2]",2
+Cam Thomas,BKN,24,Guard,1,"[24, 8]",8
+AJ Green,MIL,20,Guard,1,"[20, 0]",0
+Jordan Goodwin,PHX,23,Guard,1,"[23, 6]",6
+Jock Landale,MEM,31,Center,1,"[31, 3]",3
+Jabari Walker,PHI,33,Forward,1,"[33, 9]",9
+Keshad Johnson,MIA,16,Forward,1,"[16, 6]",6
+Adem Bona,PHI,30,Forward,1,"[30, 0]",0
+Noah Clowney,BKN,21,Forward-Center,1,"[21, 2]",2
+Jalen Wilson,BKN,22,Forward,1,"[22, 4]",4
+Jaime Jaquez Jr.,MIA,11,Guard,1,"[11, 1]",1
+Bam Adebayo,MIA,13,Center-Forward,1,"[13, 3]",3
+Myron Gardner,MIA,15,Forward,1,"[15, 5]",5
+Day'Ron Sharpe,BKN,20,Center,1,"[20, 0]",0
+Rasheer Fleming,PHX,20,Forward,1,"[20, 0]",0
+Isaiah Livers,PHX,18,Forward,1,"[18, 8]",8
+Norman Powell,MIA,24,Guard,1,"[24, 8]",8
+Mark Williams,PHX,15,Center,1,"[15, 5]",5
+Vladislav Goldin,MIA,50,Center,1,"[50, 0]",0
+Jamaree Bouyea,PHX,15,Guard,1,"[15, 5]",5
+Gary Harris,MIL,11,Guard,1,"[11, 1]",1
+Taurean Prince,MIL,12,Forward,1,"[12, 2]",2
+Ryan Rollins,MIL,13,Guard,1,"[13, 3]",3
+Cam Spencer,MEM,24,Guard,1,"[24, 8]",8
+Michael Porter Jr.,BKN,17,Forward,1,"[17, 7]",7
+Nigel Hayes-Davis,PHX,21,Forward,1,"[21, 2]",2
+Nic Claxton,BKN,33,Center,1,"[33, 9]",9
+Andrew Wiggins,MIA,22,Forward,1,"[22, 4]",4
+Liam McNeeley,CHA,33,Forward,1,"[33, 9]",9
+LeBron James,LAL,23,Forward,1,"[23, 6]",6
+Olivier-Maxence Prosper,MEM,18,Forward,1,"[18, 8]",8
+Lauri Markkanen,UTA,23,Forward-Center,1,"[23, 6]",6
+Jordan Miller,LAC,22,Guard,1,"[22, 4]",4
+Javon Small,MEM,10,Guard,1,"[10, 0]",0
+Nicolas Batum,LAC,33,Guard-Forward,1,"[33, 9]",9
+Ivica Zubac,LAC,40,Center,1,"[40, 0]",0
+Kyle Kuzma,MIL,18,Forward,1,"[18, 8]",8
+Kris Murray,POR,24,Forward,1,"[24, 8]",8
+Donovan Clingan,POR,23,Center,1,"[23, 6]",6
+Brook Lopez,LAC,11,Center,1,"[11, 1]",1
+Jaxson Hayes,LAL,11,Center-Forward,1,"[11, 1]",1
+Jake LaRavia,LAL,12,Forward,1,"[12, 2]",2
+Jahmyl Telfort,LAC,19,Guard,1,"[19, 9]",9
+Maxi Kleber,LAL,14,Forward,1,"[14, 4]",4
+Austin Reaves,LAL,15,Guard,1,"[15, 5]",5
+Kobe Brown,LAC,24,Forward,1,"[24, 8]",8
+Nick Smith Jr.,LAL,20,Guard,1,"[20, 0]",0
+Toumani Camara,POR,33,Forward,1,"[33, 9]",9
+Chris Mañon,LAL,30,Guard,1,"[30, 0]",0
+Rayan Rupert,POR,21,Guard-Forward,1,"[21, 2]",2
+Javonte Cooke,POR,18,Guard,1,"[18, 8]",8
+Cedric Coward,MEM,23,Guard,1,"[23, 6]",6
+Yang Hansen,POR,16,Center,1,"[16, 6]",6
+Amir Coffey,MIL,17,Guard-Forward,1,"[17, 7]",7
+Ja Morant,MEM,12,Guard,1,"[12, 2]",2
+Brandon Clarke,MEM,15,Forward,1,"[15, 5]",5
+Bogdan Bogdanović,LAC,10,Guard,1,"[10, 0]",0
+Cam Christie,LAC,12,Guard,1,"[12, 2]",2
+Yanic Konan Niederhäuser,LAC,14,Center,1,"[14, 4]",4
+Shaedon Sharpe,POR,17,Guard,1,"[17, 7]",7
+Cason Wallace,OKC,22,Guard,1,"[22, 4]",4
+Jahmir Young,MIA,17,Guard,1,"[17, 7]",7
+Mark Sears,MIL,19,Guard,1,"[19, 9]",9
+Onyeka Okongwu,ATL,17,Forward-Center,1,"[17, 7]",7
+Trendon Watford,PHI,12,Guard-Forward,1,"[12, 2]",2
+N'Faly Dante,ATL,12,Center,1,"[12, 2]",2
+Isaiah Joe,OKC,11,Guard,1,"[11, 1]",1
+Zaccharie Risacher,ATL,10,Forward,1,"[10, 0]",0
+Ousmane Dieng,OKC,13,Forward,1,"[13, 3]",3
+Jaylon Tyson,CLE,20,Guard-Forward,1,"[20, 0]",0
+Larry Nance Jr.,CLE,22,Forward-Center,1,"[22, 4]",4
+Tyrese Proctor,CLE,24,Guard,1,"[24, 8]",8
+Jarrett Allen,CLE,31,Center,1,"[31, 3]",3
+Dean Wade,CLE,32,Forward-Center,1,"[32, 6]",6
+Luke Travers,CLE,33,Forward,1,"[33, 9]",9
+Jalen Brunson,NYK,11,Guard,1,"[11, 1]",1
+Moussa Diabaté,CHA,14,Forward,1,"[14, 4]",4
+Mitchell Robinson,NYK,23,Center-Forward,1,"[23, 6]",6
+Antonio Reeves,CHA,12,Guard,1,"[12, 2]",2
+Thomas Sorber,OKC,12,Center,1,"[12, 2]",2
+Karl-Anthony Towns,NYK,32,Center-Forward,1,"[32, 6]",6
+DeMar DeRozan,SAC,10,Guard-Forward,1,"[10, 0]",0
+Aaron Wiggins,OKC,21,Guard,1,"[21, 2]",2
+Mouhamed Gueye,ATL,18,Forward,1,"[18, 8]",8
+Brooks Barnhizer,OKC,23,Guard,1,"[23, 6]",6
+Tyler Kolek,NYK,13,Guard,1,"[13, 3]",3
+Tre Mann,CHA,23,Guard,1,"[23, 6]",6
+Tosan Evbuomwan,NYK,20,Forward,1,"[20, 0]",0
+Khris Middleton,WAS,22,Forward,1,"[22, 4]",4
+Pat Connaughton,CHA,21,Guard,1,"[21, 2]",2
+Zach Edey,MEM,14,Center,1,"[14, 4]",4
+Branden Carlson,OKC,15,Center,1,"[15, 5]",5
+Khaman Maluach,PHX,10,Center,1,"[10, 0]",0
+Mike Conley,MIN,10,Guard,1,"[10, 0]",0
+Naz Reid,MIN,11,Center-Forward,1,"[11, 1]",1
+Joan Beringer,MIN,19,Forward,1,"[19, 9]",9
+Jaylen Clark,MIN,22,Guard,1,"[22, 4]",4
+Tre Johnson,WAS,12,Guard,1,"[12, 2]",2
+Julius Randle,MIN,30,Forward-Center,1,"[30, 0]",0
+Sharife Cooper,WAS,13,Guard,1,"[13, 3]",3
+Corey Kispert,WAS,24,Forward,1,"[24, 8]",8
+Oso Ighodaro,PHX,11,Forward,1,"[11, 1]",1
+Franz Wagner,ORL,22,Forward,1,"[22, 4]",4
+Moritz Wagner,ORL,21,Forward-Center,1,"[21, 2]",2
+Colin Castleton,ORL,14,Center,1,"[14, 4]",4
+Tristan da Silva,ORL,23,Forward,1,"[23, 6]",6
+Jared McCain,PHI,20,Guard,1,"[20, 0]",0
+Kyshawn George,WAS,18,Forward,1,"[18, 8]",8
+Trae Young,ATL,11,Guard,1,"[11, 1]",1
+Alex Sarr,WAS,20,Center,1,"[20, 0]",0
+Justin Edwards,PHI,11,Forward,1,"[11, 1]",1
+Mohamed Diawara,NYK,51,Forward,1,"[51, 5]",5
+Trey Jemison III,NYK,50,Center,1,"[50, 0]",0
+Asa Newell,ATL,14,Forward,1,"[14, 4]",4
+Nikola Đurišić,ATL,22,Guard,1,"[22, 4]",4
+Anthony Gill,WAS,16,Forward,1,"[16, 6]",6
+Caleb Houstan,ATL,33,Guard,1,"[33, 9]",9
+Dru Smith,MIA,12,Guard,1,"[12, 2]",2
+Tyler Herro,MIA,14,Guard,1,"[14, 4]",4
+Bryce McGowens,NOP,11,Guard,1,"[11, 1]",1
+Joel Embiid,PHI,21,Center-Forward,1,"[21, 2]",2
+Jose Alvarado,NOP,15,Guard,1,"[15, 5]",5
+Bruce Brown,DEN,11,Guard-Forward,1,"[11, 1]",1
+Saddiq Bey,NOP,41,Guard-Forward,1,"[41, 4]",4
+Sidy Cissoko,POR,91,Guard,1,"[91, 9]",9
+Jakob Poeltl,TOR,19,Center,1,"[19, 9]",9
+Cameron Johnson,DEN,23,Forward,1,"[23, 6]",6
+DaRon Holmes II,DEN,14,Forward,1,"[14, 4]",4
+Tre Jones,CHI,30,Guard,1,"[30, 0]",0
+Collin Murray-Boyles,TOR,12,Forward,1,"[12, 2]",2
+Brandon Williams,DAL,10,Guard,1,"[10, 0]",0
+Derik Queen,NOP,22,Center,1,"[22, 4]",4
+Naji Marshall,DAL,13,Forward,1,"[13, 3]",3
+Miles Kelly,DAL,14,Guard,1,"[14, 4]",4
+Eli John Ndiaye,ATL,30,Forward,1,"[30, 0]",0
+Caleb Martin,DAL,16,Forward,1,"[16, 6]",6
+Daniel Gafford,DAL,21,Forward-Center,1,"[21, 2]",2
+John Collins,LAC,20,Forward-Center,1,"[20, 0]",0
+Ryan Kalkbrenner,CHA,11,Center,1,"[11, 1]",1
+Ja'Kobe Walter,TOR,14,Guard,1,"[14, 4]",4
+Klay Thompson,DAL,31,Guard,1,"[31, 3]",3
+Kyrie Irving,DAL,11,Guard,1,"[11, 1]",1
+Tim Hardaway Jr.,DEN,10,Guard-Forward,1,"[10, 0]",0
+Zeke Nnaji,DEN,22,Forward-Center,1,"[22, 4]",4
+Nikola Jokić,DEN,15,Center,1,"[15, 5]",5
+Tidjane Salaün,CHA,31,Forward,1,"[31, 3]",3
+Jonas Valančiūnas,DEN,17,Center,1,"[17, 7]",7
+Karlo Matković,NOP,17,Forward-Center,1,"[17, 7]",7
+Yves Missi,NOP,21,Center,1,"[21, 2]",2
+Trey Alexander,NOP,23,Guard,1,"[23, 6]",6
+Spencer Jones,DEN,21,Forward,1,"[21, 2]",2
+Moussa Cisse,DAL,30,Center,1,"[30, 0]",0
+Jalen Pickett,DEN,24,Guard,1,"[24, 8]",8
+Josh Green,CHA,10,Guard,1,"[10, 0]",0
+Chaz Lanier,DET,20,Guard,1,"[20, 0]",0
+Garrett Temple,TOR,17,Guard-Forward,1,"[17, 7]",7
+Keon Ellis,SAC,23,Guard,1,"[23, 6]",6
+Julian Champagnie,SAS,30,Forward,1,"[30, 0]",0
+Jamal Shead,TOR,23,Guard,1,"[23, 6]",6
+Maxime Raynaud,SAC,42,Center,1,"[42, 8]",8
+Daniss Jenkins,DET,24,Guard,1,"[24, 8]",8
+Aaron Gordon,DEN,32,Forward,1,"[32, 6]",6
+Harrison Barnes,SAS,40,Forward,1,"[40, 0]",0
+Georges Niang,UTA,31,Forward,1,"[31, 3]",3
+Tobias Harris,DET,12,Forward,1,"[12, 2]",2
+Brandon Miller,CHA,24,Forward,1,"[24, 8]",8
+Svi Mykhailiuk,UTA,10,Guard-Forward,1,"[10, 0]",0
+Seth Curry,CHA,30,Guard,1,"[30, 0]",0
+Ayo Dosunmu,CHI,11,Guard,1,"[11, 1]",1
+Ace Bailey,UTA,19,Forward,1,"[19, 9]",9
+Zach Collins,CHI,12,Forward-Center,1,"[12, 2]",2
+Elijah Harkless,UTA,16,Guard,1,"[16, 6]",6
+Kevin Huerter,CHI,13,Guard-Forward,1,"[13, 3]",3
+Matas Buzelis,CHI,14,Forward,1,"[14, 4]",4
+Julian Phillips,CHI,15,Forward,1,"[15, 5]",5
+Noa Essengue,CHI,24,Forward,1,"[24, 8]",8
+Kyle Filipowski,UTA,22,Center,1,"[22, 4]",4
+John Tonje,UTA,17,Guard,1,"[17, 7]",7
+Walter Clayton Jr.,UTA,13,Guard,1,"[13, 3]",3
+Cooper Flagg,DAL,32,Forward,1,"[32, 6]",6
+Jordan Hawkins,NOP,24,Guard,1,"[24, 8]",8
+Walker Kessler,UTA,24,Center,1,"[24, 8]",8
+Aaron Nesmith,IND,23,Guard-Forward,1,"[23, 6]",6
+De'Andre Hunter,CLE,12,Forward-Guard,1,"[12, 2]",2
+Jett Howard,ORL,13,Guard,1,"[13, 3]",3
+Kevin Love,UTA,42,Forward-Center,1,"[42, 8]",8
+Drew Eubanks,SAC,19,Forward-Center,1,"[19, 9]",9
+Draymond Green,GSW,23,Forward,1,"[23, 6]",6
+Tari Eason,HOU,17,Forward,1,"[17, 7]",7
+Stephen Curry,GSW,30,Guard,1,"[30, 0]",0
+Trayce Jackson-Davis,GSW,32,Forward,1,"[32, 6]",6
+Clint Capela,HOU,30,Center,1,"[30, 0]",0
+Jaden Ivey,DET,23,Guard,1,"[23, 6]",6
+Ochai Agbaji,TOR,30,Guard,1,"[30, 0]",0
+Mason Plumlee,CHA,22,Forward-Center,1,"[22, 4]",4
+Darius Garland,CLE,10,Guard,1,"[10, 0]",0
+Jeff Green,HOU,32,Forward,1,"[32, 6]",6
+Chucky Hepburn,TOR,24,Guard,1,"[24, 8]",8
+Dennis Schröder,SAC,17,Guard,1,"[17, 7]",7
+Bismack Biyombo,SAS,18,Center,1,"[18, 8]",8
+Quinten Post,GSW,21,Center,1,"[21, 2]",2
+Isaiah Stevens,SAC,24,Guard,1,"[24, 8]",8
+Steven Adams,HOU,12,Center,1,"[12, 2]",2
+Jase Richardson,ORL,11,Guard,1,"[11, 1]",1
+Reed Sheppard,HOU,15,Guard,1,"[15, 5]",5
+Pat Spencer,GSW,61,Guard,1,"[61, 6]",6
+Dario Šarić,SAC,20,Forward-Center,1,"[20, 0]",0
+Devin Carter,SAC,22,Guard,1,"[22, 4]",4
+Jusuf Nurkić,UTA,30,Center,1,"[30, 0]",0
+Devin Vassell,SAS,24,Guard-Forward,1,"[24, 8]",8
+Domantas Sabonis,SAC,11,Forward-Center,1,"[11, 1]",1
+Alex Toohey,GSW,22,Forward,1,"[22, 4]",4
+Cole Anthony,MIL,50,Guard,1,"[50, 0]",0
+Tyson Etienne,BKN,10,Guard,1,"[10, 0]",0
+Dylan Cardwell,SAC,32,Center,1,"[32, 6]",6
+Javonte Green,DET,31,Guard,1,"[31, 3]",3
+Jabari Smith Jr.,HOU,10,Forward,1,"[10, 0]",0
+Jimmy Butler III,GSW,10,Forward,1,"[10, 0]",0
+Keegan Murray,SAC,13,Forward,1,"[13, 3]",3
+Ron Harper Jr.,BOS,13,Guard-Forward,1,"[13, 3]",3
+Jeremy Sochan,SAS,10,Forward,1,"[10, 0]",0
+Johni Broome,PHI,22,Forward,1,"[22, 4]",4
+Eric Gordon,PHI,23,Guard,1,"[23, 6]",6
+Leonard Miller,MIN,33,Forward,1,"[33, 9]",9
+Terance Mann,BKN,14,Guard-Forward,1,"[14, 4]",4
+Tyrese Martin,BKN,13,Forward,1,"[13, 3]",3
+Russell Westbrook,SAC,18,Guard,1,"[18, 8]",8
+Johnny Furphy,IND,12,Guard,1,"[12, 2]",2
+Payton Pritchard,BOS,11,Guard,1,"[11, 1]",1
+Koby Brea,PHX,14,Guard,1,"[14, 4]",4
+Jay Huff,IND,32,Center,1,"[32, 6]",6
+Micah Peavy,NOP,14,Guard-Forward,1,"[14, 4]",4
+Tony Bradley,IND,13,Center-Forward,1,"[13, 3]",3
+Al Horford,GSW,20,Center-Forward,1,"[20, 0]",0
+Josh Okogie,HOU,20,Guard,1,"[20, 0]",0
+Carter Bryant,SAS,11,Forward,1,"[11, 1]",1
+Gui Santos,GSW,15,Forward,1,"[15, 5]",5
+Collin Gillespie,PHX,12,Guard,1,"[12, 2]",2
+Isaiah Jackson,IND,22,Forward,1,"[22, 4]",4
+Sam Hauser,BOS,30,Forward,1,"[30, 0]",0
+Nique Clifford,SAC,5,Guard,0,[5],5
+Doug McDermott,SAC,7,Forward,0,[7],7
+Malik Monk,SAC,0,Guard,0,[0],0
+Tristan Vukcevic,WAS,0,Forward,0,[0],0
+Cam Whitmore,WAS,1,Forward,0,[1],1
+Taylor Hendricks,UTA,0,Forward,0,[0],0
+Kyle Anderson,UTA,2,Forward-Guard,0,[2],2
+Keyonte George,UTA,3,Guard,0,[3],3
+Quentin Grimes,PHI,5,Guard,0,[5],5
+Andre Drummond,PHI,1,Center,0,[1],1
+Paul George,PHI,8,Forward,0,[8],8
+Isaiah Collier,UTA,8,Guard,0,[8],8
+Kyle Lowry,PHI,7,Guard,0,[7],7
+Jayson Tatum,BOS,0,Forward-Guard,0,[0],0
+Kelly Oubre Jr.,PHI,9,Forward-Guard,0,[9],9
+Wendell Moore Jr.,DET,9,Guard,0,[9],9
+Craig Porter Jr.,CLE,9,Guard,0,[9],9
+Sam Merrill,CLE,5,Guard,0,[5],5
+Josh Minott,BOS,8,Forward,0,[8],8
+Anfernee Simons,BOS,4,Guard,0,[4],4
+Evan Mobley,CLE,4,Center,0,[4],4
+E.J. Liddell,BKN,9,Forward,0,[9],9
+Jaylen Brown,BOS,7,Guard-Forward,0,[7],7
+Chris Livingston,CLE,8,Forward,0,[8],8
+Damian Lillard,POR,0,Guard,0,[0],0
+Scoot Henderson,POR,0,Guard,0,[0],0
+Cody Williams,UTA,5,Forward,0,[5],5
+Kelly Olynyk,SAS,8,Forward-Center,0,[8],8
+Jalen Green,PHX,4,Guard,0,[4],4
+Deni Avdija,POR,8,Forward,0,[8],8
+Gradey Dick,TOR,1,Guard-Forward,0,[1],1
+Caleb Love,POR,2,Guard,0,[2],2
+CJ McCollum,WAS,3,Guard,0,[3],3
+AJ Johnson,WAS,4,Guard,0,[4],4
+Tyrese Maxey,PHI,0,Guard,0,[0],0
+Malaki Branham,WAS,8,Forward,0,[8],8
+De'Aaron Fox,SAS,4,Guard,0,[4],4
+Dillon Brooks,PHX,3,Guard-Forward,0,[3],3
+Ryan Dunn,PHX,0,Forward,0,[0],0
+Grayson Allen,PHX,8,Guard,0,[8],8
+Royce O'Neale,PHX,0,Forward,0,[0],0
+Devin Booker,PHX,1,Guard,0,[1],1
+Justin Champagnie,WAS,9,Guard-Forward,0,[9],9
+Zach LaVine,SAC,8,Guard,0,[8],8
+Jerami Grant,POR,9,Forward,0,[9],9
+Matisse Thybulle,POR,4,Guard-Forward,0,[4],4
+Victor Wembanyama,SAS,1,Forward-Center,0,[1],1
+Dylan Harper,SAS,2,Guard,0,[2],2
+Keldon Johnson,SAS,3,Forward-Guard,0,[3],3
+Blake Wesley,POR,1,Guard,0,[1],1
+Bub Carrington,WAS,7,Guard,0,[7],7
+A.J. Lawson,TOR,0,Guard,0,[0],0
+Jrue Holiday,POR,5,Guard,0,[5],5
+Brandon Ingram,TOR,3,Forward,0,[3],3
+Precious Achiuwa,SAC,9,Forward,0,[9],9
+Jacob Toppin,ATL,0,Forward,0,[0],0
+Jamal Cain,ORL,8,Forward,0,[8],8
+Isaac Jones,DET,3,Forward,0,[3],3
+Jalen Duren,DET,0,Center,0,[0],0
+Peyton Watson,DEN,8,Guard,0,[8],8
+Tamar Bates,DEN,7,Guard,0,[7],7
+Hunter Tyson,DEN,5,Forward,0,[5],5
+Julian Strawther,DEN,3,Guard,0,[3],3
+Jamir Watkins,WAS,5,Forward,0,[5],5
+Jonathan Mogbo,TOR,2,Forward,0,[2],2
+Ryan Nembhard,DAL,9,Guard,0,[9],9
+Dwight Powell,DAL,7,Forward-Center,0,[7],7
+D'Angelo Russell,DAL,5,Guard,0,[5],5
+Anthony Davis,DAL,3,Forward-Center,0,[3],3
+Dereck Lively II,DAL,2,Center,0,[2],2
+Jaden Hardy,DAL,1,Guard,0,[1],1
+Danté Exum,DAL,0,Guard,0,[0],0
+Max Christie,DAL,0,Guard,0,[0],0
+Cade Cunningham,DET,2,Guard,0,[2],2
+Stephon Castle,SAS,5,Guard,0,[5],5
+Bilal Coulibaly,WAS,0,Guard,0,[0],0
+Nick Richards,PHX,2,Center,0,[2],2
+Luke Kornet,SAS,7,Center-Forward,0,[7],7
+Aaron Holiday,HOU,0,Guard,0,[0],0
+Kevon Harris,HOU,0,Guard,0,[0],0
+De'Anthony Melton,GSW,8,Guard,0,[8],8
+Buddy Hield,GSW,7,Guard,0,[7],7
+Moses Moody,GSW,4,Guard,0,[4],4
+Will Richard,GSW,3,Guard,0,[3],3
+Brandin Podziemski,GSW,2,Guard,0,[2],2
+Jonathan Kuminga,GSW,1,Forward,0,[1],1
+Gary Payton II,GSW,0,Guard,0,[0],0
+Dorian Finney-Smith,HOU,2,Forward,0,[2],2
+Amen Thompson,HOU,1,Guard-Forward,0,[1],1
+Ausar Thompson,DET,9,Guard-Forward,0,[9],9
+JD Davison,HOU,4,Guard,0,[4],4
+Jordan McLaughlin,SAS,0,Guard,0,[0],0
+Paul Reed,DET,7,Forward,0,[7],7
+Ronald Holland II,DET,5,Forward,0,[5],5
+Christian Braun,DEN,0,Guard,0,[0],0
+Kevin Durant,HOU,7,Forward,0,[7],7
+Curtis Jones,DEN,1,Guard,0,[1],1
+RJ Barrett,TOR,9,Forward-Guard,0,[9],9
+Scottie Barnes,TOR,4,Forward-Guard,0,[4],4
+Immanuel Quickley,TOR,5,Guard,0,[5],5
+Caris LeVert,DET,8,Guard,0,[8],8
+Egor Dëmin,BKN,8,Guard,0,[8],8
+Nickeil Alexander-Walker,ATL,7,Guard,0,[7],7
+Drake Powell,BKN,4,Guard-Forward,0,[4],4
+Luke Kennard,ATL,3,Guard,0,[3],3
+Terrence Shannon Jr.,MIN,1,Guard-Forward,0,[1],1
+Miles Bridges,CHA,0,Forward,0,[0],0
+Pacôme Dadiet,NYK,4,Forward,0,[4],4
+Donte DiVincenzo,MIN,0,Guard,0,[0],0
+Danny Wolf,BKN,2,Forward,0,[2],2
+Joe Ingles,MIN,7,Forward-Guard,0,[7],7
+Jordan Clarkson,NYK,0,Guard,0,[0],0
+Kristaps Porziņģis,ATL,8,Forward-Center,0,[8],8
+Rob Dillingham,MIN,4,Guard,0,[4],4
+Josh Hart,NYK,3,Guard,0,[3],3
+Tyrese Haliburton,IND,0,Guard,0,[0],0
+Lonzo Ball,CLE,2,Guard,0,[2],2
+Drew Peterson,CHA,9,Forward,0,[9],9
+Paolo Banchero,ORL,5,Forward,0,[5],5
+Collin Sexton,CHA,8,Guard,0,[8],8
+Jalen Suggs,ORL,4,Guard,0,[4],4
+Max Strus,CLE,1,Guard-Forward,0,[1],1
+Dalen Terry,CHI,7,Forward,0,[7],7
+Emanuel Miller,CHI,2,Forward,0,[2],2
+Grant Williams,CHA,2,Forward,0,[2],2
+Coby White,CHI,0,Guard,0,[0],0
+Trentyn Flowers,CHI,0,Forward,0,[0],0
+Kon Knueppel,CHA,7,Guard-Forward,0,[7],7
+Kris Dunn,LAC,8,Guard,0,[8],8
+Myles Turner,MIL,3,Center-Forward,0,[3],3
+Johnny Juzang,MIN,9,Guard,0,[9],9
+Orlando Robinson,ORL,7,Center,0,[7],7
+Miles McBride,NYK,2,Guard,0,[2],2
+DeAndre Jordan,NOP,9,Center,0,[9],9
+Dejounte Murray,NOP,5,Guard,0,[5],5
+Hunter Dickinson,NOP,4,Center,0,[4],4
+Jordan Poole,NOP,3,Guard,0,[3],3
+Herbert Jones,NOP,2,Forward,0,[2],2
+Zion Williamson,NOP,1,Forward,0,[1],1
+Bones Hyland,MIN,8,Guard,0,[8],8
+Anthony Edwards,MIN,5,Guard,0,[5],5
+Jaden McDaniels,MIN,3,Forward,0,[3],3
+Kawhi Leonard,LAC,2,Forward,0,[2],2
+Jae'Sean Tate,HOU,8,Forward,0,[8],8
+Bradley Beal,LAC,0,Guard,0,[0],0
+Jeremiah Fears,NOP,0,Guard,0,[0],0
+Gary Trent Jr.,MIL,5,Guard,0,[5],5
+Adou Thiero,LAL,1,Guard,0,[1],1
+Derrick Jones Jr.,LAC,5,Forward,0,[5],5
+Chris Paul,LAC,3,Guard,0,[3],3
+James Harden,LAC,1,Guard,0,[1],1
+Kobe Sanders,LAC,4,Guard,0,[4],4
+Fred VanVleet,HOU,5,Guard,0,[5],5
+Sion James,CHA,4,Guard,0,[4],4
+Ziaire Williams,BKN,1,Forward,0,[1],1
+Dyson Daniels,ATL,5,Guard,0,[5],5
+Alex Caruso,OKC,9,Guard,0,[9],9
+Jalen Williams,OKC,8,Guard-Forward,0,[8],8
+Chet Holmgren,OKC,7,Center-Forward,0,[7],7
+Jaylin Williams,OKC,6,Forward,0,[6],6
+Luguentz Dort,OKC,5,Guard,0,[5],5
+Chris Youngblood,OKC,3,Guard,0,[3],3
+Shai Gilgeous-Alexander,OKC,2,Guard,0,[2],2
+Kevin McCullar Jr.,NYK,9,Guard,0,[9],9
+OG Anunoby,NYK,8,Forward-Guard,0,[8],8
+Jonathan Isaac,ORL,1,Forward,0,[1],1
+Anthony Black,ORL,0,Guard,0,[0],0
+Bobby Portis,MIL,9,Forward,0,[9],9
+Jevon Carter,CHI,5,Guard,0,[5],5
+T.J. McConnell,IND,9,Guard,0,[9],9
+Haywood Highsmith,BKN,7,Forward,0,[7],7
+Kam Jones,IND,7,Guard,0,[7],7
+Taelon Peter,IND,4,Guard,0,[4],4
+Jalen Johnson,ATL,1,Forward,0,[1],1
+Jarace Walker,IND,5,Forward,0,[5],5
+Nikola Jović,MIA,5,Forward,0,[5],5
+Desmond Bane,ORL,3,Guard,0,[3],3
+Kevin Porter Jr.,MIL,7,Guard-Forward,0,[7],7
+Tyus Jones,ORL,2,Guard,0,[2],2
+Derrick White,BOS,9,Guard,0,[9],9
+Josh Giddey,CHI,3,Guard,0,[3],3
+LaMelo Ball,CHA,1,Guard,0,[1],1
+Keaton Wallace,ATL,2,Guard,0,[2],2
+Andrew Nembhard,IND,2,Guard-Forward,0,[2],2
+Obi Toppin,IND,1,Forward,0,[1],1
+Bennedict Mathurin,IND,0,Guard-Forward,0,[0],0
+Jarred Vanderbilt,LAL,2,Forward,0,[2],2
+Dalton Knecht,LAL,4,Forward,0,[4],4
+Deandre Ayton,LAL,5,Center,0,[5],5
+Jaren Jackson Jr.,MEM,8,Forward-Center,0,[8],8
+Jericho Sims,MIL,0,Center,0,[0],0
+Pelle Larsson,MIA,9,Guard,0,[9],9
+Kel'el Ware,MIA,7,Center,0,[7],7
+Nikola Vučević,CHI,9,Center,0,[9],9
+Thomas Bryant,CLE,3,Center-Forward,0,[3],3
+Simone Fontecchio,MIA,0,Forward,0,[0],0
+Santi Aldama,MEM,7,Forward-Center,0,[7],7
+Gabe Vincent,LAL,7,Guard,0,[7],7
+Vince Williams Jr.,MEM,5,Guard,0,[5],5
+Kentavious Caldwell-Pope,MEM,3,Guard,0,[3],3
+Ty Jerome,MEM,2,Guard-Forward,0,[2],2
+Scotty Pippen Jr.,MEM,1,Guard,0,[1],1
+Jaylen Wells,MEM,0,Forward,0,[0],0
+Bronny James,LAL,9,Guard,0,[9],9
+Terry Rozier,MIA,2,Guard,0,[2],2
