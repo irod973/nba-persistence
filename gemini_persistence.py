@@ -89,7 +89,6 @@ def multiply_digits(num: int) -> int:
     digits = [int(d) for d in str(num)]
     return reduce(operator.mul, digits, 1)
 
-
 @lru_cache(maxsize=1028)  # Plenty for all 3 digit numbers
 def persistence_recursive(num: int) -> int:
     """Calculate the persistence of a number recursively."""
@@ -138,7 +137,7 @@ def persistence_list_brute(num: int) -> list[int]:
     return num_list
 
 
-def calculate_persistence_list_both(num: int) -> int:
+def calculate_persistence_list_both(num: int) -> list[int]:
     """Calculate the persistence list using both approaches."""
     persistence_list_one = persistence_list_resursive(num)
     persistence_list_two = persistence_list_brute(num)
@@ -148,7 +147,7 @@ def calculate_persistence_list_both(num: int) -> int:
     return persistence_list_one
 
 
-def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int]):
+def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int], output_file: str):
     """Plot the distribution of the last digit of the persistence list."""
     list_of_last_digits = [digit for digit in last_digit_of_persistence_list if digit is not None]
     logger.info(f"{list_of_last_digits=}")
@@ -157,7 +156,7 @@ def plot_persistence_list_distribution(last_digit_of_persistence_list: list[int]
     plt.ylabel("Frequency")
     plt.title("Distribution of Last Digit of Persistence List")
     plt.xticks([i + 0.5 for i in range(10)], [str(i) for i in range(10)])
-    output_path = Path(__file__).parent / "persistence_list_distribution.png"
+    output_path = Path(__file__).parent / output_file
     plt.savefig(output_path)
     plt.close()
 
@@ -192,7 +191,7 @@ if __name__ == "__main__":
     roster_df.to_csv(output_csv, index=False)
     logger.info(f"Persistence data saved to {output_csv}")
 
-    plot_persistence_list_distribution(roster_df["last_digit_of_persistence_list"].tolist())
+    plot_persistence_list_distribution(roster_df["last_digit_of_persistence_list"].tolist(), output_file="nba_persistence_distribution.png")
     logger.info("Persistence list distribution saved to persistence_list_distribution.png")
 
     if not roster_df.empty:
@@ -208,14 +207,16 @@ if __name__ == "__main__":
         )
 
     # Tangent: What's the max persistence of a two-digit number?
-    twodigit_to_p: list[tuple[int, int]] = [(n, persistence_recursive(n)) for n in range(100)]
+    twodigit_to_p: list[tuple[int, list[int]]] = [(n, persistence_list_resursive(n)) for n in range(100)]
     twodigit_to_p.sort(key=lambda item: item[1], reverse=True)
     logger.info(f"{twodigit_to_p[:10]=}")
+    plot_persistence_list_distribution([persistence_list[-1] for num, persistence_list in twodigit_to_p], output_file="two_digit_persistence_distribution.png")
 
     # Tangent: What's the max persistence of a three-digit number?
-    threedigit_to_p: list[tuple[int, int]] = [(n, persistence_recursive(n)) for n in range(1000)]
+    threedigit_to_p: list[tuple[int, list[int]]] = [(n, persistence_list_resursive(n)) for n in range(1000)]
     threedigit_to_p.sort(key=lambda item: item[1], reverse=True)
     logger.info(f"{threedigit_to_p[:10]=}")
+    plot_persistence_list_distribution([persistence_list[-1] for num, persistence_list in threedigit_to_p], output_file="three_digit_persistence_distribution.png")
 
     # Tangent: Which of our persistence methods is faster??
     test_numbers = list(range(10, 1000))  # All 2- and 3-digit numbers
